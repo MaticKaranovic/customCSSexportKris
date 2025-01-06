@@ -1,0 +1,23 @@
+
+:root {
+    --shadowShadowsShadowXs: 0 1px 2px 0 rgba(10,13,18,0.05);  
+    --shadowShadowsShadowSm: 0 1px 2px -1px rgba(10,13,18,0.1);  
+    --shadowShadowsShadowSm2: 0 1px 3px 0 rgba(10,13,18,0.1);  
+    --shadowShadowsShadowMd: 0 2px 4px -2px rgba(10,13,18,0.06);  
+    --shadowShadowsShadowMd2: 0 4px 6px -1px rgba(10,13,18,0.1);  
+    --shadowShadowsShadowLg: 0 2px 2px -1px rgba(10,13,18,0.04);  
+    --shadowShadowsShadowLg2: 0 4px 6px -2px rgba(10,13,18,0.03);  
+    --shadowShadowsShadowLg3: 0 12px 16px -4px rgba(10,13,18,0.08);  
+    --shadowShadowsShadowXl: 0 3px 3px -1.5px rgba(10,13,18,0.04);  
+    --shadowShadowsShadowXl2: 0 8px 8px -4px rgba(10,13,18,0.03);  
+    --shadowShadowsShadowXl3: 0 20px 24px -4px rgba(10,13,18,0.08);  
+    --shadowShadowsShadow2xl: 0 4px 4px -2px rgba(10,13,18,0.04);  
+    --shadowShadowsShadow2xl2: 0 24px 48px -12px rgba(10,13,18,0.18);  
+    --shadowShadowsShadow3xl: 0 5px 5px -2.5px rgba(10,13,18,0.04);  
+    --shadowShadowsShadow3xl2: 0 32px 64px -12px rgba(10,13,18,0.14);  
+    --shadowIosKeyBoxShadowDark: 0 1px 0 0 rgba(0,0,0,1);  
+    --shadowIosKeyBoxShadowLight: 0 1px 0 0 rgba(137,138,141,1);  
+    /* Shadows allow you to add depth and realism to designs by positioning elements on a z-axis. */
+    --shadowShadowsShadowXs: 0 1px 2px 0 rgba(10,13,18,0.05);  
+    --shadowShadowSh: inset 0 16px 0 0 rgba(131,31,140,1);  
+}
