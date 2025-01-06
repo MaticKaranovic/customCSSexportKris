@@ -1,0 +1,13 @@
+{
+  "id": "tgam.exporter-css",
+  "name": "TGAM CSS",
+  "description": "Export your design system tokens into CSS variables and definitions.",
+  "organization": "The Globe and Mail",
+  "homepage": "https://www.theglobeandmail.com",
+  "version": "0.6.0",
+  "usesBrands": true,
+  "usesThemes": true,
+  "executable": "/dist/build.js",
+  "engine": "latest",
+  "tags": ["CSS", "Tokens", "TGAM"]
+}
