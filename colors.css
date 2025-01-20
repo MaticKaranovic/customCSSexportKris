@@ -53,7 +53,6 @@
     --colorButtonsOnButtonInactive: #c5c7ce;    
     --colorButtonsDestructive: #f26359;    
     --colorButtonsOnDestructive: #180302;    
-    --colorUtilityGrayBlue: #858fc6;    
     --colorUtilityGrayIron: #a1a1aa;    
     --colorUtilityGrayWarm: #aba5a0;    
     --colorUtilityGreen: #9de963;    
@@ -159,6 +158,7 @@
     --colorColorsPink700: #b83280;    
     --colorColorsPink800: #97266d;    
     --colorColorsPink900: #702459;    
+    --colorUtilityGrayBlue: var(--colorUtilityGrayIron);    
     --colorFgDefault: var(--colorColorsBlack);    
     --colorFgMuted: var(--colorColorsGray700);    
     --colorFgSubtle: var(--colorColorsGray500);    
