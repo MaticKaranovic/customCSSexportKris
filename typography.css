@@ -1,0 +1,1651 @@
+.typographyDesktopHeadersH1Regular 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureDimensionFontSizeDesktopHeader1);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopHeadersH1Medium 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureDimensionFontSizeDesktopHeader1);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopHeadersH1Semibold 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: var(--measureDimensionFontSizeDesktopHeader1);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopHeadersH1Bold 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureDimensionFontSizeDesktopHeader1);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopHeadersH2Regular 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureDimensionFontSizeDesktopHeader2);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopHeadersH2Medium 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureDimensionFontSizeDesktopHeader2);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader2);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopHeadersH2Semibold 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: var(--measureDimensionFontSizeDesktopHeader2);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopHeadersH2Bold 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureDimensionFontSizeDesktopHeader2);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopHeadersH3Regular 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeDesktopHeader3);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopHeadersH3Medium 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureFontSizeFontSizeDesktopHeader3);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader3);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopHeadersH3Semibold 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: var(--measureFontSizeFontSizeDesktopHeader3);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopHeadersH3Bold 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureFontSizeFontSizeDesktopHeader3);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopHeadersH4Regular 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeDesktopHeader4);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopHeadersH4Medium 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureFontSizeFontSizeDesktopHeader4);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader4);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopHeadersH4Semibold 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: var(--measureFontSizeFontSizeDesktopHeader4);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopHeadersH4Bold 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureFontSizeFontSizeDesktopHeader4);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopHeadersH5Regular 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeDesktopHeader5);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopHeadersH5Medium 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureFontSizeFontSizeDesktopHeader5);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader5);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopHeadersH5Semibold 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: var(--measureFontSizeFontSizeDesktopHeader5);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopHeadersH5Bold 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureFontSizeFontSizeDesktopHeader5);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopHeadersH6Regular 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeDesktopHeader6);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopHeadersH6Medium 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureFontSizeFontSizeDesktopHeader6);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader6);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopHeadersH6Semibold 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: var(--measureFontSizeFontSizeDesktopHeader6);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopHeadersH6Bold 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureFontSizeFontSizeDesktopHeader6);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopBodyBodyXlRegular 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureDimensionFontSizeDesktopBodyXl);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopBodyBodyXlMedium 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureDimensionFontSizeDesktopBodyXl);
+  line-height: var(--measureLineHeightLineHeightDesktopTextXl);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopBodyBodyXlSemibold 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: var(--measureDimensionFontSizeDesktopBodyXl);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopBodyBodyXlBold 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureDimensionFontSizeDesktopBodyXl);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopBodyBodyLgRegular 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeDesktopBodyLg);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopBodyBodyLgSemibold 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureFontSizeFontSizeDesktopBodyLg);
+  line-height: var(--measureLineHeightLineHeightDesktopTextLg);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopBodyBodyLgBold 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureFontSizeFontSizeDesktopBodyLg);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopBodyBodyMdRegular 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeDesktopBodyMd);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopBodyBodyMdMedium 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureFontSizeFontSizeDesktopBodyMd);
+  line-height: var(--measureLineHeightLineHeightDesktopTextMd);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopBodyBodyMdSemibold 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: var(--measureFontSizeFontSizeDesktopBodyMd);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopBodyBodyMdBold 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureFontSizeFontSizeDesktopBodyMd);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopBodyBodySmRegular 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeDesktopBodySm);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopBodyBodySmSemibold 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: var(--measureFontSizeFontSizeDesktopBodySm);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopBodyBodySmBold 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureFontSizeFontSizeDesktopBodySm);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopBodyBodySmMedium 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureFontSizeFontSizeDesktopBodySm);
+  line-height: var(--measureLineHeightLineHeightDesktopTextSm);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopLinksLinksSmRegular 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeDesktopLinksSm);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopLinksLinksSmMedium 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureFontSizeFontSizeDesktopLinksSm);
+  line-height: var(--measureLineHeightLineHeightDesktopTextSm);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopLinksLinksSmSemibold 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: var(--measureFontSizeFontSizeDesktopLinksSm);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopLinksLinksSmBold 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureFontSizeFontSizeDesktopLinksSm);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopLinksLinksXlRegular 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeDesktopLinksXl);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopLinksLinksXlMedium 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureFontSizeFontSizeDesktopLinksXl);
+  line-height: var(--measureLineHeightLineHeightDesktopTextXl);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopLinksLinksXlSemibold 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: var(--measureFontSizeFontSizeDesktopLinksXl);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopLinksLinksXlBold 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureFontSizeFontSizeDesktopLinksXl);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopLinksLinksLgRegular 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeDesktopLinksLg);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopLinksLinksLgMedium 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureFontSizeFontSizeDesktopLinksLg);
+  line-height: var(--measureLineHeightLineHeightDesktopTextLg);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopLinksLinksLgSemibold 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: var(--measureFontSizeFontSizeDesktopLinksLg);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopLinksLinksLgBold 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureFontSizeFontSizeDesktopLinksLg);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopLinksLinksMdRegular 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeDesktopLinksMd);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopLinksLinksMdMedium 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureFontSizeFontSizeDesktopLinksMd);
+  line-height: var(--measureLineHeightLineHeightDesktopTextMd);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopLinksLinksMdSemibold 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: var(--measureFontSizeFontSizeDesktopLinksMd);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopLinksLinksMdBold 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureFontSizeFontSizeDesktopLinksMd);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopButtonRegular 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureDimensionFontSizeDesktopButton);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopButtonMedium 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureDimensionFontSizeDesktopButton);
+  line-height: var(--measureLineHeightLineHeightDesktopTextMd);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopButtonSemibold 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: var(--measureDimensionFontSizeDesktopButton);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopButtonBold 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureDimensionFontSizeDesktopButton);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopLabelsRegular 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeDesktopLabel);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopLabelsMedium 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureFontSizeFontSizeDesktopLabel);
+  line-height: var(--measureLineHeightLineHeightDesktopTextXs);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopLabelsSemibold 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: var(--measureFontSizeFontSizeDesktopLabel);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyDesktopLabelsBold 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureFontSizeFontSizeDesktopLabel);
+  line-height: var(--measureLineHeightLineHeightDesktopHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileHeadersH1Regular 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureDimensionFontSizeMobileHeader1);
+  line-height: var(--measureLineHeightLineHeightMobileHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileHeadersH1Medium 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureDimensionFontSizeMobileHeader1);
+  line-height: var(--measureLineHeightLineHeightMobileHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileHeadersH1Semibold 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: var(--measureDimensionFontSizeMobileHeader1);
+  line-height: var(--measureLineHeightLineHeightMobileHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileHeadersH1Bold 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureDimensionFontSizeMobileHeader1);
+  line-height: var(--measureLineHeightLineHeightMobileHeader1);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileHeadersH2Regular 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureDimensionFontSizeMobileHeader2);
+  line-height: var(--measureLineHeightLineHeightMobileHeader2);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileHeadersH2Medium 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureDimensionFontSizeMobileHeader2);
+  line-height: var(--measureLineHeightLineHeightMobileHeader2);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileHeadersH2Semibold 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: var(--measureDimensionFontSizeMobileHeader2);
+  line-height: var(--measureLineHeightLineHeightMobileHeader2);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileHeadersH2Bold 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureDimensionFontSizeMobileHeader2);
+  line-height: var(--measureLineHeightLineHeightMobileHeader2);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileHeadersH3Regular 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeMobileHeader3);
+  line-height: var(--measureLineHeightLineHeightMobileHeader3);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileHeadersH3Medium 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureFontSizeFontSizeMobileHeader3);
+  line-height: var(--measureLineHeightLineHeightMobileHeader3);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileHeadersH3Semibold 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: var(--measureFontSizeFontSizeMobileHeader3);
+  line-height: var(--measureLineHeightLineHeightMobileHeader3);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileHeadersH3Bold 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureFontSizeFontSizeMobileHeader3);
+  line-height: var(--measureLineHeightLineHeightMobileHeader3);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileHeadersH4Regular 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeMobileHeader4);
+  line-height: var(--measureLineHeightLineHeightMobileHeader4);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileHeadersH4Medium 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureFontSizeFontSizeMobileHeader4);
+  line-height: var(--measureLineHeightLineHeightMobileHeader4);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileHeadersH4Semibold 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: var(--measureFontSizeFontSizeMobileHeader4);
+  line-height: var(--measureLineHeightLineHeightMobileHeader4);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileHeadersH4Bold 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureFontSizeFontSizeMobileHeader4);
+  line-height: var(--measureLineHeightLineHeightMobileHeader4);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileHeadersH5Regular 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeMobileHeader5);
+  line-height: var(--measureLineHeightLineHeightMobileHeader5);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileHeadersH5Medium 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureFontSizeFontSizeMobileHeader5);
+  line-height: var(--measureLineHeightLineHeightMobileHeader5);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileHeadersH5Semibold 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: var(--measureFontSizeFontSizeMobileHeader5);
+  line-height: var(--measureLineHeightLineHeightMobileHeader5);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileHeadersH5Bold 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureFontSizeFontSizeMobileHeader5);
+  line-height: var(--measureLineHeightLineHeightMobileHeader5);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileHeadersH6Regular 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeMobileHeader6);
+  line-height: var(--measureLineHeightLineHeightMobileHeader6);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileHeadersH6Medium 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureFontSizeFontSizeMobileHeader6);
+  line-height: var(--measureLineHeightLineHeightMobileHeader6);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileHeadersH6Semibold 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: var(--measureFontSizeFontSizeMobileHeader6);
+  line-height: var(--measureLineHeightLineHeightMobileHeader6);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileHeadersH6Bold 
+ {
+  
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureFontSizeFontSizeMobileHeader6);
+  line-height: var(--measureLineHeightLineHeightMobileHeader6);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileBodyBodyXlRegular 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureDimensionFontSizeMobileBodyXl);
+  line-height: var(--measureLineHeightLineHeightMobileTextXl);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileBodyBodyXlMedium 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureDimensionFontSizeMobileBodyXl);
+  line-height: var(--measureLineHeightLineHeightMobileTextXl);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileBodyBodyXlSemibold 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: var(--measureDimensionFontSizeMobileBodyXl);
+  line-height: var(--measureLineHeightLineHeightMobileTextXl);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileBodyBodyXlBold 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureDimensionFontSizeMobileBodyXl);
+  line-height: var(--measureLineHeightLineHeightMobileTextXl);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileBodyBodyLgRegular 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeMobileLinksLg);
+  line-height: var(--measureLineHeightLineHeightMobileTextLg);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileBodyBodyLgMedium 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureFontSizeFontSizeMobileLinksLg);
+  line-height: var(--measureLineHeightLineHeightMobileTextLg);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileBodyBodyLgSemibold 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: var(--measureFontSizeFontSizeMobileBodyLg);
+  line-height: var(--measureLineHeightLineHeightMobileTextLg);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileBodyBodyLgBold 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureFontSizeFontSizeMobileBodyLg);
+  line-height: var(--measureLineHeightLineHeightMobileTextLg);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileBodyBodyMdRegular 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeDesktopBodyMd);
+  line-height: var(--measureLineHeightLineHeightDesktopTextMd);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileBodyBodyMdMedium 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureFontSizeFontSizeDesktopBodyMd);
+  line-height: var(--measureLineHeightLineHeightDesktopTextMd);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileBodyBodyMdSemibold 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: var(--measureFontSizeFontSizeDesktopBodyMd);
+  line-height: var(--measureLineHeightLineHeightDesktopTextMd);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileBodyBodyMdBold 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureFontSizeFontSizeDesktopBodyMd);
+  line-height: var(--measureLineHeightLineHeightDesktopTextMd);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileBodyBodySmRegular 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeMobileBodySm);
+  line-height: var(--measureLineHeightLineHeightMobileTextSm);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileBodyBodySmMedium 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureFontSizeFontSizeMobileBodySm);
+  line-height: var(--measureLineHeightLineHeightMobileTextSm);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileBodyBodySmSemibold 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: var(--measureFontSizeFontSizeMobileBodySm);
+  line-height: var(--measureLineHeightLineHeightMobileTextSm);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileBodyBodySmBold 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureFontSizeFontSizeMobileBodySm);
+  line-height: var(--measureLineHeightLineHeightMobileTextSm);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileLinksLinksXlRegular 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeMobileLinksXl);
+  line-height: var(--measureLineHeightLineHeightMobileTextXl);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileLinksLinksXlMedium 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureFontSizeFontSizeMobileLinksXl);
+  line-height: var(--measureLineHeightLineHeightMobileTextXl);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileLinksLinksXlSemibold 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: var(--measureFontSizeFontSizeMobileLinksXl);
+  line-height: var(--measureLineHeightLineHeightMobileTextXl);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileLinksLinksXlBold 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureFontSizeFontSizeMobileLinksXl);
+  line-height: var(--measureLineHeightLineHeightMobileTextXl);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileLinksLinksLgRegular 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeMobileLinksLg);
+  line-height: var(--measureLineHeightLineHeightMobileTextLg);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileLinksLinksLgMedium 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureFontSizeFontSizeMobileLinksLg);
+  line-height: var(--measureLineHeightLineHeightMobileTextLg);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileLinksLinksLgSemibold 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: var(--measureFontSizeFontSizeMobileLinksLg);
+  line-height: var(--measureLineHeightLineHeightMobileTextLg);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileLinksLinksLgBold 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureFontSizeFontSizeMobileLinksLg);
+  line-height: var(--measureLineHeightLineHeightMobileTextLg);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileLinksLinksMdRegular 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeMobileLinksMd);
+  line-height: var(--measureLineHeightLineHeightMobileTextMd);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileLinksLinksMdMedium 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureFontSizeFontSizeMobileLinksMd);
+  line-height: var(--measureLineHeightLineHeightMobileTextMd);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileLinksLinksMdSemibold 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: var(--measureFontSizeFontSizeMobileLinksMd);
+  line-height: var(--measureLineHeightLineHeightMobileTextMd);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileLinksLinksMdBold 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureFontSizeFontSizeMobileLinksMd);
+  line-height: var(--measureLineHeightLineHeightMobileTextMd);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileLinksLinksSmRegular 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureDimensionFontSizeMobileLinksSm);
+  line-height: var(--measureLineHeightLineHeightDesktopTextSm);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileLinksLinksSmMedium 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureDimensionFontSizeMobileLinksSm);
+  line-height: var(--measureLineHeightLineHeightDesktopTextSm);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileLinksLinksSmSemibold 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: var(--measureDimensionFontSizeMobileLinksSm);
+  line-height: var(--measureLineHeightLineHeightDesktopTextSm);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileLinksLinksSmBold 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureDimensionFontSizeMobileLinksSm);
+  line-height: var(--measureLineHeightLineHeightDesktopTextSm);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileButtonRegular 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureDimensionFontSizeMobileButton);
+  line-height: var(--measureLineHeightLineHeightMobileTextMd);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileButtonMedium 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureDimensionFontSizeMobileButton);
+  line-height: var(--measureLineHeightLineHeightMobileTextMd);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileButtonSemibold 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: var(--measureDimensionFontSizeMobileButton);
+  line-height: var(--measureLineHeightLineHeightMobileTextMd);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileButtonBold 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureDimensionFontSizeMobileButton);
+  line-height: var(--measureLineHeightLineHeightMobileTextMd);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileLabelRegular 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontSizeMobileLabel);
+  line-height: var(--measureLineHeightLineHeightMobileTextSm);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileLabelMedium 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: var(--measureFontSizeFontSizeMobileLabel);
+  line-height: var(--measureLineHeightLineHeightMobileTextSm);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileLabelSemibold 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: var(--measureFontSizeFontSizeMobileLabel);
+  line-height: var(--measureLineHeightLineHeightMobileTextSm);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
+.typographyMobileLabelBold 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: var(--measureFontSizeFontSizeMobileLabel);
+  line-height: var(--measureLineHeightLineHeightMobileTextSm);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
